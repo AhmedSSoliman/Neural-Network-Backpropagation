@@ -19,9 +19,15 @@ The seeds dataset involves the prediction of species given measurements seeds fr
 There are 201 records and 7 numerical input variables. It is a classification problem with 3 output classes. The scale for each numeric input value vary, so some data normalization may be required for use with algorithms that weight inputs like the backpropagation algorithm.
 
 # This project contains:
+
 Initialize Network.
+
 Forward Propagate.
+
 Back Propagate Error.
+
 Train Network.
+
 Predict.
+
 Seeds Dataset Case Study.
